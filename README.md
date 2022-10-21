@@ -15,6 +15,10 @@ This tool is the full package for fine tuning a language model to generate MJ pr
 - MongoDB index creator
 - MongoDB append entries
 
+## How does this cross over to PromptGods?
+PromptGods is a prompting tool I'm working on. I want it to be the be-all end-all prompting tool.
+Check out the (PromptGods repo) [https://github.com/ttuleyb/PromptGods] for updated versions of some of the tools like data cleansing.
+
 ## Tools you should refrain from using
 Any tool I have labelled with (rate limit) should be used carefully or you risk taking down the midjourney gallery. This isn't a joke, I've accidentally took it down once and until they scale their backend properly for their growing userbase you should be careful using these.
 
