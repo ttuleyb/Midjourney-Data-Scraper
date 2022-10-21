@@ -48,7 +48,7 @@ Reads all json files in a given directory then merges all of the prmpts in a sin
 #### Legacy scrapers (rate limit)
 These work by requesting all pages for listed sorting methods. They go page by page (in multiple threads) and download the midjourney gallery's frontpage.
 
-#### Modern scrapers
+#### Modern scrapers
 This script works by using the voting algorithm to download this weeks most highly rated images all in a single request.
 I heavily recommend using this script over the legacy scrapers as it is faster and puts a lot less load on the midjourney database as it seems like their voting function is much more optimized.
 The only downside is that you only get the highest rated data compared to legacy which would give you a lot more data to work with.
