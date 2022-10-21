@@ -15,7 +15,7 @@ This tool is the full package for fine tuning a language model to generate MJ pr
 - MongoDB index creator
 - MongoDB append entries
 
-## How does this cross over to PromptGods?
+## How does this cross over with PromptGods?
 PromptGods is a prompting tool I'm working on. I want it to be the be-all end-all prompting tool.
 Check out the [PromptGods repo](https://github.com/ttuleyb/PromptGods) for updated versions of some of the tools like data cleansing.
 
