@@ -16,7 +16,7 @@ This tool is the full package for fine tuning a language model to generate MJ pr
 - MongoDB append entries
 
 ## Tools you should refrain from using
-Any tool I have labelled with (rate limit) should be used carefully or you risk taking down the midjourney gallery. This isn't a joke, I've accidentally took it down once and until they resolve scale their backend for their growing userbase you should be careful using these.
+Any tool I have labelled with (rate limit) should be used carefully or you risk taking down the midjourney gallery. This isn't a joke, I've accidentally took it down once and until they scale their backend properly for their growing userbase you should be careful using these.
 
 ### Archiver
 This tool checks all new files under the jsons folder then adds them under a folder named after the current date in the archive root directory
