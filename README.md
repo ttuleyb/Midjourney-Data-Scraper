@@ -34,7 +34,7 @@ Pretty self explanatory, takes in a bunch of text files then merges them into on
 ### Data cleansing
 Takes in your data and then cleans links aswell as performs other functions to filter the data. It then appends all the data in a TSV file in the format usable to fine-tune OpenAI GPT models.
 
-### Data counter
+### Data counter
 Counts the number of unique prompts in a given file
 
 ### Database counter
